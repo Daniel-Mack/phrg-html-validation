@@ -4,4 +4,4 @@
 
 <p><a href="https://www.youtube.com/watch?v=nYglnxMUixM">HTML Validation</a></p>.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-validation' title='HTML Validation'>HTML Validation</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Validation</p>
